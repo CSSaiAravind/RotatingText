@@ -24,7 +24,7 @@ h1{
 .inner-headings span{
     position: relative;
     color: crimson;
-    animation: ani 10s ease infinite;
+    animation: ani 1s ease infinite;
 }
 @keyframes ani{
     0%,100%{
